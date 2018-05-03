@@ -62,6 +62,7 @@ def main() :
     
     # start the video stream thread
     print("[INFO] starting video stream thread...")
+    print("[INFO] print q to quit...")
     if args['video'] == "camera":
         vs = VideoStream(src=0).start()
         fileStream = False
