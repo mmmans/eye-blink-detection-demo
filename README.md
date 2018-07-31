@@ -1,6 +1,6 @@
 # eye-blink-detection-demo
 
- A very simple demo code for eye blink detection with dlib libray with python, Note this project is basically dependent on the library dlib. The methods used in the demo code is introduced in [](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf?spm=a2c4e.11153940.blogcont336184.6.28a771e8bHtjbJ&file=05.pdf). This code is based on the blog[Eye blink detection with OpenCV, Python, and dlib](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/). Here is the Chinese translation[OpenCV/Python/dlib眨眼检测](https://yq.aliyun.com/articles/336184). 
+ A very simple demo code for eye blink detection with dlib libray with python, Note this project is basically dependent on the library dlib. The methods used in the demo code is introduced in [Paper](http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf?spm=a2c4e.11153940.blogcont336184.6.28a771e8bHtjbJ&file=05.pdf). This code is based on the blog[Eye blink detection with OpenCV, Python, and dlib](https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/). Here is the Chinese translation[OpenCV/Python/dlib眨眼检测](https://yq.aliyun.com/articles/336184). 
 
 ## Environment
 * win10
