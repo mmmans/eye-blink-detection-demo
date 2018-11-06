@@ -4,12 +4,17 @@
 
 ## Environment
 * win10
-* python 3.6
+* python 3.5.4
+* opencv 3.3.1
+* imutils 0.4.6
+* dlib 18.18
 * Anaconda3
 
-## install dlib
+## install packages
 ```
 conda intall dlib
+conda install opencv3
+pip install imutils
 ```
 
 ## sample 
