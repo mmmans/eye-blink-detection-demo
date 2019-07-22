@@ -12,7 +12,7 @@
 
 ## install packages
 ```
-conda intall dlib
+conda install dlib
 conda install opencv3
 pip install imutils
 ```
